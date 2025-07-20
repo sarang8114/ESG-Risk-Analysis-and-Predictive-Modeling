@@ -4,7 +4,7 @@ This project involves an end-to-end analysis of Environmental, Social, and Gover
 
 ![Dashboard](assets/dashboard.png)
 
-## 📊 Project Highlights
+## Project Highlights
 
 - Cleaned and preprocessed ESG dataset containing scores across multiple risk dimensions.
 - Performed in-depth Exploratory Data Analysis (EDA) to uncover patterns and outliers.
@@ -15,13 +15,13 @@ This project involves an end-to-end analysis of Environmental, Social, and Gover
   - Attempted prediction of Controversy Scores.
 - Developed a detailed Excel dashboard to visually represent risk distributions across sectors.
 
-## 🛠️ Tools and Libraries Used
+## Tools and Libraries Used
 
 - **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Excel**: Pivot tables, charts, slicers, stacked bar charts, pie and line graphs
 - **Jupyter Notebook**: For step-by-step data analysis and modeling
 
-## 💡 Key Insights
+## Key Insights
 
 - Certain sectors like **Energy** and **Utilities** show significantly higher ESG risk scores.
 - Companies with higher **full-time employees** did not necessarily have lower ESG risks.
